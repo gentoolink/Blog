@@ -15,7 +15,7 @@ class Blog extends OssnObject {
 		 * return void;
 		 */
 		private function initializeAttributes() {
-				$this->annontation = new OssnAnnotaions;
+				$this->annontation = new OssnAnnotations;
 		}
 		/**
 		 * Add blog;
